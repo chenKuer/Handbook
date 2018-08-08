@@ -29,18 +29,18 @@
 # 2018-08-03
 - 14. Longest Common Prefix
 
-#2018-08-04
+# 2018-08-04
 - 5. Longest Palindromic Substring （Brute Force)
 // substring(startIndex,endIndex), substring 不包括endIndex字符
 - 5. Longest Palindromic Substring (center)
 
-#2018-08-05
+# 2018-08-05
 - 8. String to Integer (atoi)
 - 21. Merge Two Sorted Lists
 
-#2018-08-06
--26. Remove Duplicates from Sorted Array
--11. Container With Most Water
+# 2018-08-06
+- 26. Remove Duplicates from Sorted Array
+- 11. Container With Most Water
 
-#2018-08-07
--15. 3 sum
+# 2018-08-07
+- 15. 3 sum
