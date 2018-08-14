@@ -46,3 +46,6 @@
 - 15. 3 sum
 # 2018-08-08
 - 12. Integer to Roman
+
+# 2018-08-14
+- 27. Remove Element
