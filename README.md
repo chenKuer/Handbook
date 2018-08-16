@@ -50,3 +50,6 @@
 # 2018-08-14
 - 27. Remove Element
 - 283. Move Zeroes
+
+# 2018-08-16
+- 28. Implement strStr()
