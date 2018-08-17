@@ -53,3 +53,6 @@
 
 # 2018-08-16
 - 28. Implement strStr()
+
+# 2018-08-17
+- 459. Repeated Substring Pattern
