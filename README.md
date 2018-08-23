@@ -62,3 +62,4 @@
 
 # 2018-08-23
 - 22. Generate Parentheses
+- 567. Permutation in String
