@@ -56,3 +56,9 @@
 
 # 2018-08-17
 - 459. Repeated Substring Pattern
+
+# 2018-08-20
+- 686. Repeated String Match
+
+# 2018-08-23
+- 22. Generate Parentheses
