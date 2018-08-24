@@ -63,3 +63,5 @@
 # 2018-08-23
 - 22. Generate Parentheses
 - 567. Permutation in String
+- 18. 4Sum
+- 454 4Sum II
