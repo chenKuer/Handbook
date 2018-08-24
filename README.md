@@ -66,3 +66,7 @@
 - 18. 4Sum
 - 454 4Sum II
 - 29. Divide Two Integers
+
+# 2018-08-24
+- 35. Search Insert Position
+- 23. Merge K sorted Lists(PriorityQueue, and Merge and Conquer)
