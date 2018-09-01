@@ -14,7 +14,7 @@ public class TreeNode {
 #### 1.Recursively DFS
 > 序指的是访问root的顺序
 - Preorder Traverse (先序遍历)（ root First -> left children -> right children ）
-- Inorder Traverse (中序遍历)
+- Inorder Traverse (中序遍历)ß
 - Postorder Traverse （后序遍历）
 
 ```java
@@ -35,6 +35,7 @@ public class Traverse {
     ans.add(root.val, ans);
   }
 
+ // Test
   public static void main(String[] args) {
     Traverse t = new Traverse();
     ArrayList ans = new ArrayList();
@@ -43,7 +44,6 @@ public class Traverse {
 
 }
 ```
-中序遍历
 
 
 
