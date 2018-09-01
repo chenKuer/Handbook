@@ -70,3 +70,12 @@
 # 2018-08-24
 - 35. Search Insert Position
 - 23. Merge K sorted Lists(PriorityQueue, and Merge and Conquer)
+- 264. Ugly Number II
+
+# 2018-08-25
+- 31.Next Permutation
+
+# 2018-08-29
+- 104. Maximum Depth of Binary Tree
+
+# 2018-08-30
