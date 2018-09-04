@@ -79,3 +79,9 @@
 - 104. Maximum Depth of Binary Tree
 
 # 2018-08-30
+
+# 2018-09-01
+- balanced binary search tree
+
+# 2018-09-02
+- 130. surrounding region

@@ -2,8 +2,8 @@ public class BalancedBinaryTree {
   private boolean result = true;
 
   public boolean isBalanced(TreeNode root) {
-    maxDepth(root);
-    return result;
+    return maxDepth(root) != -1;
+
   }
 
   public int maxDepth(TreeNode root) {
@@ -11,13 +11,17 @@ public class BalancedBinaryTree {
       return 0;
     }
     int l = maxDepth(root.left);
+    if(l == -1) return -1;
     int r = maxDepth(root.right);
+    if(r == -1) return -1;
 
     if(Math.abs(l-r)>1) {
-      result = false;
+      return -1;
     }
-
-    return 1+ Math.max()
-
+    return 1+ Math.max(l,r);
   }
+
+
+  // time complexity O(N)
+
 }
