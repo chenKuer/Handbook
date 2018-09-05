@@ -85,3 +85,7 @@
 
 # 2018-09-02
 - 130. surrounding region
+
+# 2018-09-04
+- 100. Is Same Tree
+- 398. Random Pick Index
