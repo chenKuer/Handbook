@@ -93,3 +93,5 @@
 # 2018-09-05
 - 108.convert sorted array to Binary Search Tree
 - 695. Max Area of Island
+- 101. Symmetric Tree
+- 124. Binary Tree Maximum Path Sum
