@@ -89,3 +89,7 @@
 # 2018-09-04
 - 100. Is Same Tree
 - 398. Random Pick Index
+
+# 2018-09-05
+- 108.convert sorted array to Binary Search Tree
+- 695. Max Area of Island
