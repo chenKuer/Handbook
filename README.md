@@ -95,3 +95,11 @@
 - 695. Max Area of Island
 - 101. Symmetric Tree
 - 124. Binary Tree Maximum Path Sum
+
+# 2018-09-06
+- 105. Construct Binary Tree from preorder and inorder Traversal
+- 106. Construct Binary Tree from inorder and postorder traversal
+
+# 2018-09-10
+- Goldman OA 2018
+-
