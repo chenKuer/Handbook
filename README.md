@@ -101,5 +101,9 @@
 - 106. Construct Binary Tree from inorder and postorder traversal
 
 # 2018-09-10
-- Goldman OA 2018
+- OA 2018 6
+# 2018-09-11
+- OA 6
+
+# 2018-09-11
 -
