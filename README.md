@@ -101,9 +101,9 @@
 - 106. Construct Binary Tree from inorder and postorder traversal
 
 # 2018-09-10
-- OA 2018 6
+- OA 2018 6个
 # 2018-09-11
-- OA 6
+- OA 6个
 
-# 2018-09-11
--
+# 2018-09-13
+- Trie
